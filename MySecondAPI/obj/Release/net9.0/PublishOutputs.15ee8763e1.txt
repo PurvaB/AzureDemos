@@ -1,0 +1,9 @@
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\MySecondAPI.exe
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\appsettings.json
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\MySecondAPI.dll
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\MySecondAPI.deps.json
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\MySecondAPI.runtimeconfig.json
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\MySecondAPI.pdb
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HOME\Projects\MySecondAPI\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
