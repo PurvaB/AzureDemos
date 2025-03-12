@@ -8,7 +8,7 @@ namespace MySecondAPI.Pages
         public string Message {get; set;} ="";
         public void OnGet()
         {
-            this.Message= "Hello World V1!";
+            this.Message= "Hello World V1 - Git Testing!";
         }
     }
 }
